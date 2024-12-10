@@ -1,6 +1,7 @@
 <?php
 include './includes/header.php';
-include './includes/html/banner.html';
+// include './includes/html/banner.html';
+include './includes/produto.php';
 
 
 
